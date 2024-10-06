@@ -17,3 +17,11 @@ Load solution in Visual Studio an build project
 
 # Mouse control
 - use ctrl, shift, or mouse movement to translate, scale or rotate
+
+# Examples
+![alt text](011.jpg)
+![alt text](022.jpg)
+![alt text](060.jpg)
+![alt text](065.jpg)
+![alt text](051.jpg)
+![alt text](053.jpg)
